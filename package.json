@@ -12,6 +12,7 @@
   "author": "Pooya NoD",
   "license": "MIT",
   "dependencies": {
+    "@fortawesome/react-fontawesome": "^0.1.7",
     "bcryptjs": "^2.4.3",
     "config": "^3.2.2",
     "express": "^4.17.1",
